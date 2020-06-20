@@ -1,2 +1,3 @@
-# from galaxy
-- src: ANXS.postgresql
+- src: https://github.com/ANXS/postgresql.git
+  version: master
+  name: postgresql
